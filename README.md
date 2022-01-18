@@ -1,4 +1,4 @@
 # banco-basico
-Banco básico, funções de saque e depósito. Inputs server-side.
+Banco básico, funções de saque e depósito.
 
 100 % JAVA
